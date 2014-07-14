@@ -1,0 +1,12 @@
+.pinned {
+	position: absolute;
+	overflow: auto;
+}
+
+	.top    { top:    0; }
+	.right  { right:  0; }
+	.bottom { bottom: 0; }
+	.left   { left:   0; }
+
+	.height { top:    0; bottom: 0; }
+	.sides  { right:  0; left:   0; }
