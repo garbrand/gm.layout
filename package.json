@@ -1,15 +1,63 @@
 {
-  "name": "gm.layout",
-  "version": "0.0.1",
-  "description": "Very basic CSS layout.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha -R spec"
+  "_args": [
+    [
+      "gm.layout@0.0.1",
+      "/Users/garbrand/Home Projects/Touchdown/concept"
+    ]
+  ],
+  "_from": "gm.layout@0.0.1",
+  "_id": "gm.layout@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gm.layout",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "email": "garbrand@me.com",
+    "name": "garbrand"
   },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gm.layout",
+    "raw": "gm.layout@0.0.1",
+    "rawSpec": "0.0.1",
+    "scope": null,
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "b9efc74687d44adbca529c8e29ed35412e2ae724",
+  "_shrinkwrap": null,
+  "_spec": "gm.layout@0.0.1",
+  "_where": "/Users/garbrand/Home Projects/Touchdown/concept",
   "author": "",
-  "license": "ISC",
+  "dependencies": {},
+  "description": "Very basic CSS layout.",
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^1.20.1"
-  }
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b9efc74687d44adbca529c8e29ed35412e2ae724",
+    "tarball": "http://registry.npmjs.org/gm.layout/-/gm.layout-0.0.1.tgz"
+  },
+  "gitHead": "827c6494051f865d308f26c40978d0d3f0793308",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "garbrand",
+      "email": "garbrand@me.com"
+    }
+  ],
+  "name": "gm.layout",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "version": "0.0.1"
 }
