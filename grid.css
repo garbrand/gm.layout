@@ -1,0 +1,24 @@
+[class*="spans-"] {
+	display: block;
+	float: left;
+	overflow: auto;
+}
+
+.spans-1  { width : 8.33%; }
+.spans-2  { width : 16.67%; }
+.spans-3  { width : 25%; }
+.spans-4  { width : 33.33%; }
+.spans-5  { width : 41.67%; }
+.spans-6  { width : 50%; }
+.spans-7  { width : 58.33%; }
+.spans-8  { width : 66.67%; }
+.spans-9  { width : 75%; }
+.spans-10 { width : 83.33%; }
+.spans-11 { width : 91.67%; }
+.spans-12 { width : 100%; }
+
+.row {
+	display: block;
+	overflow: auto;
+	clear: both;
+}
