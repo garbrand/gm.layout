@@ -13,6 +13,10 @@ It also sets box sizing model to border box.
 ## layout.css
 Simple helper classes for application positioning.
 
+Use the class `pinned` to pin the corners of the element to the document. This uses absolute positioning.
+
+Use the class `fixed` to pin the corners of the element to the viewport. This uses fixed positioning, so the element will not scroll with the document.
+
 Example:
 ```html
 <nav id="toolbar" class="pinned top sides" style="height: 3em"></nav>

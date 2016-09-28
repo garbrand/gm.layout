@@ -3,6 +3,11 @@
 	overflow: auto;
 }
 
+.fixed {
+	position: fixed;
+	overflow: auto;
+}
+
 	.top    { top:    0; }
 	.right  { right:  0; }
 	.bottom { bottom: 0; }
